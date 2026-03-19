@@ -1,2 +1,3 @@
-# auto-data-visualizer-t9gu
-Automated issue comment bot repository
+# Auto Data Visualizer T9Gu
+
+Automated issue comment bot repository.
